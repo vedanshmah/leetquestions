@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vedanshmah/leetquestions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
