@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vedanshmah/leetquestions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/vedanshmah/leetquestions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vedanshmah/leetquestions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vedanshmah/leetquestions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vedanshmah/leetquestions/tree/master/0151-reverse-words-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
