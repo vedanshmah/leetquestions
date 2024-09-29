@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/vedanshmah/leetquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vedanshmah/leetquestions/tree/master/0151-reverse-words-in-a-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/vedanshmah/leetquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/vedanshmah/leetquestions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vedanshmah/leetquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/vedanshmah/leetquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |
 | ------- |
