@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vedanshmah/leetquestions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/vedanshmah/leetquestions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
