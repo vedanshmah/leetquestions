@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vedanshmah/leetquestions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedanshmah/leetquestions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Union Find
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vedanshmah/leetquestions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vedanshmah/leetquestions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedanshmah/leetquestions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vedanshmah/leetquestions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedanshmah/leetquestions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
