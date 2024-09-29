@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vedanshmah/leetquestions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/vedanshmah/leetquestions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
+| [1642-water-bottles](https://github.com/vedanshmah/leetquestions/tree/master/1642-water-bottles) |
 ## Linked List
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0334-increasing-triplet-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/vedanshmah/leetquestions/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
