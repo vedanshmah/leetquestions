@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vedanshmah/leetquestions/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/vedanshmah/leetquestions/tree/master/0151-reverse-words-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vedanshmah/leetquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
