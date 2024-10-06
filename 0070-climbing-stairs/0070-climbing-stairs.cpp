@@ -1,25 +1,25 @@
 class Solution {
 public:
-int nstaircase(int n,int*arr){
+int nstaircase(int n,int*dp){
     //base
     if(n<0){
         return 0;
     }
     if(n==0){
-        return arr[n]=1;
+        return dp[n]=1;
     }
     //check
-    if(arr[n]!=-1){
-        return arr[n];
+    if(dp[n]!=-1){
+        return dp[n];
     }
     //rec
-    return arr[n]=nstaircase(n-1,arr)+nstaircase(n-2,arr);
+    return dp[n]=nstaircase(n-1,dp)+nstaircase(n-2,dp);
 }
     int climbStairs(int n) {
-        int arr[n+1];
+        int dp[n+1];
         for(int i=0;i<n+1;i++){
-            arr[i]=-1;
+            dp[i]=-1;
         }
-        return nstaircase(n,arr);
+        return nstaircase(n,dp);
     }
 };
