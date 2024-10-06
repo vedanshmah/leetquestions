@@ -1,9 +1,9 @@
 class Solution {
 public:
-vector<string> vecbnao(string s1,int n1){
+vector<string> vecbnao(string s1){
     vector<string> v;
     string temp;
-    for(int i=0;i<n1;i++){
+    for(int i=0;i<s1.length();i++){
         if(s1[i]==' '){
             v.push_back(temp);
             temp="";
@@ -20,13 +20,12 @@ vector<string> vecbnao(string s1,int n1){
         if(s2.length()>s1.length()){
             swap(s1,s2);
         }
-        int n1=s1.length();
-        int n2=s2.length();
-        vector<string> vec1=vecbnao(s1,n1);
-        vector<string> vec2=vecbnao(s2,n2);
+        
+        vector<string> vec1=vecbnao(s1);
+        vector<string> vec2=vecbnao(s2);
 
-        int i=0,j=vec1.size()-1;//1 1
-        int k=0,l=vec2.size()-1;//1 0
+        int i=0,j=vec1.size()-1;
+        int k=0,l=vec2.size()-1;
 
         while(k<vec2.size() && i<vec1.size() && vec2[k]==vec1[i]){
             k++;
