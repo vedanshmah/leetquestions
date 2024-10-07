@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vedanshmah/leetquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vedanshmah/leetquestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vedanshmah/leetquestions/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/vedanshmah/leetquestions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vedanshmah/leetquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vedanshmah/leetquestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vedanshmah/leetquestions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanshmah/leetquestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2645-pass-the-pillow](https://github.com/vedanshmah/leetquestions/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vedanshmah/leetquestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
