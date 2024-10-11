@@ -16,10 +16,8 @@ public:
                         return i;
                     }
                     break;
-                }
-                
+                } 
             }
-
         }
         return -1;
     }
