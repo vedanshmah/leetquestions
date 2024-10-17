@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vedanshmah/leetquestions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vedanshmah/leetquestions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
+| [0670-maximum-swap](https://github.com/vedanshmah/leetquestions/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/vedanshmah/leetquestions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/vedanshmah/leetquestions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/vedanshmah/leetquestions/tree/master/2645-pass-the-pillow) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0334-increasing-triplet-subsequence) |
+| [0670-maximum-swap](https://github.com/vedanshmah/leetquestions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vedanshmah/leetquestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vedanshmah/leetquestions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vedanshmah/leetquestions/tree/master/2616-maximal-score-after-applying-k-operations) |
