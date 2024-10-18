@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vedanshmah/leetquestions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/vedanshmah/leetquestions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0334-increasing-triplet-subsequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/vedanshmah/leetquestions/tree/master/1054-complement-of-base-10-integer) |
 ## Greedy
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vedanshmah/leetquestions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vedanshmah/leetquestions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
