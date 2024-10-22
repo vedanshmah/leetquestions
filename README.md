@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vedanshmah/leetquestions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vedanshmah/leetquestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/vedanshmah/leetquestions/tree/master/3195-separate-black-and-white-balls) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/vedanshmah/leetquestions/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedanshmah/leetquestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2645-pass-the-pillow](https://github.com/vedanshmah/leetquestions/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vedanshmah/leetquestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/vedanshmah/leetquestions/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Queue
 |  |
 | ------- |
