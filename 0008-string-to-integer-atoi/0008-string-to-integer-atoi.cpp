@@ -8,7 +8,7 @@ public:
         }
         s=s.substr(i);
         
-        int sign=+1;
+        int sign=1;
         long long int ans=0;
 
         if(s[0]=='-'){
@@ -36,12 +36,7 @@ public:
             }
             i++;
         }
-        if(sign==-1 and -1*ans<MIN){
-            return MIN;
-        }
-        if(sign==1 and ans>MAX){
-            return MAX;
-        }
+        
         int sol=ans*sign;
         return sol;
 
