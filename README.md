@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/vedanshmah/leetquestions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vedanshmah/leetquestions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/vedanshmah/leetquestions/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/vedanshmah/leetquestions/tree/master/3451-string-compression-iii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/vedanshmah/leetquestions/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Bit Manipulation
 |  |
