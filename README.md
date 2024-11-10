@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vedanshmah/leetquestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vedanshmah/leetquestions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vedanshmah/leetquestions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vedanshmah/leetquestions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vedanshmah/leetquestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vedanshmah/leetquestions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vedanshmah/leetquestions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vedanshmah/leetquestions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vedanshmah/leetquestions/tree/master/0567-permutation-in-string) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vedanshmah/leetquestions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
