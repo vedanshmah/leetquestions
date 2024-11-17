@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vedanshmah/leetquestions/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/vedanshmah/leetquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0334-increasing-triplet-subsequence) |
 | [0739-daily-temperatures](https://github.com/vedanshmah/leetquestions/tree/master/0739-daily-temperatures) |
@@ -212,11 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vedanshmah/leetquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/vedanshmah/leetquestions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/vedanshmah/leetquestions/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vedanshmah/leetquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/vedanshmah/leetquestions/tree/master/0567-permutation-in-string) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vedanshmah/leetquestions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vedanshmah/leetquestions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vedanshmah/leetquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vedanshmah/leetquestions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vedanshmah/leetquestions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/vedanshmah/leetquestions/tree/master/2716-prime-subtraction-operation) |
