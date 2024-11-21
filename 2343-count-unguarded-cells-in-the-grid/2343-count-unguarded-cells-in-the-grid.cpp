@@ -35,6 +35,7 @@ public:
     }
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
         vector<vector<int>> grid(m,vector<int>(n,0));
+        //guard aur wall wli jagah pe 2 aur 3 mark krdo
         for(int i=0;i<guards.size();i++){
             int a=guards[i][0];
             int b=guards[i][1];
@@ -46,13 +47,14 @@ public:
             int y=walls[i][1];
             grid[x][y]=3;
         }
-
+        //ab check kro ki kon kon si pos guarded hai
         for(int i=0;i<guards.size();i++){
             int a=guards[i][0];
             int b=guards[i][1];
             checkguardedhaiyanhi(a,b,grid);
         }
         int co=0;
+        //count kon kon si pos guarded nhi hai
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==0){
