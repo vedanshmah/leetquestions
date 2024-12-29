@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vedanshmah/leetquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/vedanshmah/leetquestions/tree/master/0739-daily-temperatures) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vedanshmah/leetquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vedanshmah/leetquestions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vedanshmah/leetquestions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vedanshmah/leetquestions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/vedanshmah/leetquestions/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vedanshmah/leetquestions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/vedanshmah/leetquestions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vedanshmah/leetquestions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/vedanshmah/leetquestions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/vedanshmah/leetquestions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vedanshmah/leetquestions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vedanshmah/leetquestions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vedanshmah/leetquestions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vedanshmah/leetquestions/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vedanshmah/leetquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vedanshmah/leetquestions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vedanshmah/leetquestions/tree/master/2179-most-beautiful-item-for-each-query) |
