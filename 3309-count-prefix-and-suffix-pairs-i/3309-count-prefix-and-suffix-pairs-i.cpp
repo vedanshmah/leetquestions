@@ -6,12 +6,18 @@ public:
         if(n1>n2){
             return false;
         }
-        if(s2.substr(0,n1)==s1){
-            if(s2.substr(n2-n1)==s1){
-                return true;
+        bool ch=true;
+        for(int i=0;i<n1;i++){
+            if(s1[i]!=s2[i]){
+                ch=false;
             }
         }
-        return false;
+        for(int i=0;i<n1;i++){
+            if(s1[n1-i-1]!=s2[n2-i-1]){
+                ch=false;
+            }
+        }
+        return ch;
     }
     int countPrefixSuffixPairs(vector<string>& words) {
         int n =words.size();
