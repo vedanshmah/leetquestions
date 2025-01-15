@@ -1,7 +1,7 @@
 class Solution {
 public:
-    bool isset(int &x,int bit){
-        if((x & (1<<bit)) != 0){
+    bool isset(int num,int bit){
+        if((num & (1<<bit)) != 0){
             return true;
         }
         return false;
