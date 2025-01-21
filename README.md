@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vedanshmah/leetquestions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/vedanshmah/leetquestions/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/vedanshmah/leetquestions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vedanshmah/leetquestions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vedanshmah/leetquestions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0078-subsets) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedanshmah/leetquestions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vedanshmah/leetquestions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vedanshmah/leetquestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vedanshmah/leetquestions/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/vedanshmah/leetquestions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/vedanshmah/leetquestions/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vedanshmah/leetquestions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/vedanshmah/leetquestions/tree/master/0812-rotate-string) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vedanshmah/leetquestions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
