@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vedanshmah/leetquestions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/vedanshmah/leetquestions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vedanshmah/leetquestions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/vedanshmah/leetquestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vedanshmah/leetquestions/tree/master/0189-rotate-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vedanshmah/leetquestions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vedanshmah/leetquestions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/vedanshmah/leetquestions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vedanshmah/leetquestions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/vedanshmah/leetquestions/tree/master/1197-parsing-a-boolean-expression) |
