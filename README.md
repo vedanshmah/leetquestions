@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vedanshmah/leetquestions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/vedanshmah/leetquestions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/vedanshmah/leetquestions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vedanshmah/leetquestions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/vedanshmah/leetquestions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vedanshmah/leetquestions/tree/master/0051-n-queens) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vedanshmah/leetquestions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/vedanshmah/leetquestions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/vedanshmah/leetquestions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/vedanshmah/leetquestions/tree/master/0146-lru-cache) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vedanshmah/leetquestions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vedanshmah/leetquestions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/vedanshmah/leetquestions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0078-subsets) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vedanshmah/leetquestions/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/vedanshmah/leetquestions/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/vedanshmah/leetquestions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vedanshmah/leetquestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
