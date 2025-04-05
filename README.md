@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vedanshmah/leetquestions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vedanshmah/leetquestions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vedanshmah/leetquestions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/vedanshmah/leetquestions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedanshmah/leetquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vedanshmah/leetquestions/tree/master/0238-product-of-array-except-self) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedanshmah/leetquestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vedanshmah/leetquestions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vedanshmah/leetquestions/tree/master/0198-house-robber) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vedanshmah/leetquestions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/vedanshmah/leetquestions/tree/master/1170-shortest-common-supersequence) |
