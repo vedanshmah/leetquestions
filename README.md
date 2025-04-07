@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vedanshmah/leetquestions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/vedanshmah/leetquestions/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/vedanshmah/leetquestions/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshmah/leetquestions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/vedanshmah/leetquestions/tree/master/0739-daily-temperatures) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vedanshmah/leetquestions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vedanshmah/leetquestions/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/vedanshmah/leetquestions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/vedanshmah/leetquestions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vedanshmah/leetquestions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/vedanshmah/leetquestions/tree/master/1170-shortest-common-supersequence) |
