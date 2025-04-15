@@ -1,34 +1,59 @@
 class Solution {
 public:
-     void solve(int row,int n, vector<bool> &colo, vector<bool> &ldiag, vector<bool> &rdiag,vector<vector<string>> &res, vector<string> &sol ){
-        for(int col=0;col<n;col++){
-            if(row==n){
-                res.push_back(sol);
-                return;
-            }
+    bool isSafe(int row, int col, vector<string> &board, int n) {
+        int x = row;
+        int y = col;
 
-            if(!colo[col] && !ldiag[(row-col)+n-1] && !rdiag[row+col]){
-                sol[row][col]='Q';
-                colo[col]=true;
-                ldiag[(row-col)+n-1]=true;
-                rdiag[row+col]=true;
+   
+        while (y >= 0) {
+            if (board[x][y] == 'Q')
+                return false;
+            y--;
+        }
 
-                solve(row+1,n,colo,ldiag,rdiag,res,sol);
-                sol[row][col]='.';
+   
+        x = row;
+        y = col;
+        while (x >= 0 && y >= 0) {
+            if (board[x][y] == 'Q')
+                return false;
+            x--;
+            y--;
+        }
 
-                colo[col]=false;
-                ldiag[(row-col)+n-1]=false;
-                rdiag[row+col]=false;
+     
+        x = row;
+        y = col;
+        while (x < n && y >= 0) {
+            if (board[x][y] == 'Q')
+                return false;
+            x++;
+            y--;
+        }
+
+        return true;
+    }
+
+    
+    void solve(int col, vector<vector<string>> &ans, vector<string> &board, int n) {
+        if (col == n) {
+            ans.push_back(board);
+            return;
+        }
+
+        for (int row = 0; row < n; row++) {
+            if (isSafe(row, col, board, n)) {
+                board[row][col] = 'Q'; 
+                solve(col + 1, ans, board, n);
+                board[row][col] = '.';
             }
         }
     }
+
     vector<vector<string>> solveNQueens(int n) {
-        vector<bool> colo(n,false);
-        vector<bool> ldiag(n+n-1,false);
-        vector<bool> rdiag(n+n-1,false);
-        vector<vector<string>> res;
-        vector<string> sol(n,string(n,'.'));
-        solve(0,n,colo,ldiag,rdiag,res,sol);
-        return res;
+        vector<string> board(n, string(n, '.')); 
+        vector<vector<string>> ans;
+        solve(0, ans, board, n);
+        return ans;
     }
 };
