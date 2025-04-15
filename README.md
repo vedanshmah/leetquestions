@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vedanshmah/leetquestions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vedanshmah/leetquestions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/vedanshmah/leetquestions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/vedanshmah/leetquestions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/vedanshmah/leetquestions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vedanshmah/leetquestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
