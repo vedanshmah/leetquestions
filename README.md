@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/vedanshmah/leetquestions/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vedanshmah/leetquestions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vedanshmah/leetquestions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3637-trionic-array-i](https://github.com/vedanshmah/leetquestions/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vedanshmah/leetquestions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vedanshmah/leetquestions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vedanshmah/leetquestions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
