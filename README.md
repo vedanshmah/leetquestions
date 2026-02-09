@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vedanshmah/leetquestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/vedanshmah/leetquestions/tree/master/1382-balance-a-binary-search-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/vedanshmah/leetquestions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vedanshmah/leetquestions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vedanshmah/leetquestions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vedanshmah/leetquestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vedanshmah/leetquestions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/vedanshmah/leetquestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/vedanshmah/leetquestions/tree/master/1396-count-servers-that-communicate) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/vedanshmah/leetquestions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vedanshmah/leetquestions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vedanshmah/leetquestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/vedanshmah/leetquestions/tree/master/1382-balance-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vedanshmah/leetquestions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vedanshmah/leetquestions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Two Pointers
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/vedanshmah/leetquestions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/vedanshmah/leetquestions/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vedanshmah/leetquestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/vedanshmah/leetquestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/vedanshmah/leetquestions/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/vedanshmah/leetquestions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vedanshmah/leetquestions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vedanshmah/leetquestions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/vedanshmah/leetquestions/tree/master/1014-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/vedanshmah/leetquestions/tree/master/1382-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -706,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/vedanshmah/leetquestions/tree/master/1014-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/vedanshmah/leetquestions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
