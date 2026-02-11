@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/vedanshmah/leetquestions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vedanshmah/leetquestions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vedanshmah/leetquestions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vedanshmah/leetquestions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vedanshmah/leetquestions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3829-design-ride-sharing-system](https://github.com/vedanshmah/leetquestions/tree/master/3829-design-ride-sharing-system) |
 ## Union Find
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vedanshmah/leetquestions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vedanshmah/leetquestions/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vedanshmah/leetquestions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/vedanshmah/leetquestions/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/vedanshmah/leetquestions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -723,4 +727,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
