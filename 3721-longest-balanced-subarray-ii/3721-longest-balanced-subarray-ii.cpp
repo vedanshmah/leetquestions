@@ -53,7 +53,7 @@ public:
         lazy.assign(4*n, 0);
         
 
-        vector<int> cumsum(n,0);
+        
         int maxl=0;
         unordered_map<int,int> mp;
         for(int r=0;r<n;r++){
