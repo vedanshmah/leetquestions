@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/vedanshmah/leetquestions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vedanshmah/leetquestions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/vedanshmah/leetquestions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/vedanshmah/leetquestions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3829-design-ride-sharing-system](https://github.com/vedanshmah/leetquestions/tree/master/3829-design-ride-sharing-system) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/vedanshmah/leetquestions/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vedanshmah/leetquestions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/vedanshmah/leetquestions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/vedanshmah/leetquestions/tree/master/3714-longest-balanced-substring-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/vedanshmah/leetquestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vedanshmah/leetquestions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vedanshmah/leetquestions/tree/master/3643-zero-array-transformation-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/vedanshmah/leetquestions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vedanshmah/leetquestions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
