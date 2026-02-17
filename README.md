@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vedanshmah/leetquestions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vedanshmah/leetquestions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/vedanshmah/leetquestions/tree/master/0401-binary-watch) |
 | [1054-complement-of-base-10-integer](https://github.com/vedanshmah/leetquestions/tree/master/1054-complement-of-base-10-integer) |
 | [1940-maximum-xor-for-each-query](https://github.com/vedanshmah/leetquestions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vedanshmah/leetquestions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vedanshmah/leetquestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vedanshmah/leetquestions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/vedanshmah/leetquestions/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/vedanshmah/leetquestions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vedanshmah/leetquestions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vedanshmah/leetquestions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
