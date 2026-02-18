@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vedanshmah/leetquestions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/vedanshmah/leetquestions/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/vedanshmah/leetquestions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/vedanshmah/leetquestions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/vedanshmah/leetquestions/tree/master/1054-complement-of-base-10-integer) |
 | [1940-maximum-xor-for-each-query](https://github.com/vedanshmah/leetquestions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vedanshmah/leetquestions/tree/master/1993-sum-of-all-subset-xor-totals) |
