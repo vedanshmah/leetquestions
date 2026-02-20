@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vedanshmah/leetquestions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vedanshmah/leetquestions/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/vedanshmah/leetquestions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/vedanshmah/leetquestions/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/vedanshmah/leetquestions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vedanshmah/leetquestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vedanshmah/leetquestions/tree/master/0368-largest-divisible-subset) |
+| [0761-special-binary-string](https://github.com/vedanshmah/leetquestions/tree/master/0761-special-binary-string) |
 | [1014-k-closest-points-to-origin](https://github.com/vedanshmah/leetquestions/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/vedanshmah/leetquestions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1256-rank-transform-of-an-array) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vedanshmah/leetquestions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/vedanshmah/leetquestions/tree/master/0307-range-sum-query-mutable) |
+| [0761-special-binary-string](https://github.com/vedanshmah/leetquestions/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/vedanshmah/leetquestions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/vedanshmah/leetquestions/tree/master/1014-k-closest-points-to-origin) |
