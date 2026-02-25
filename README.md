@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vedanshmah/leetquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vedanshmah/leetquestions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vedanshmah/leetquestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/vedanshmah/leetquestions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/vedanshmah/leetquestions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vedanshmah/leetquestions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedanshmah/leetquestions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/vedanshmah/leetquestions/tree/master/0868-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/vedanshmah/leetquestions/tree/master/1054-complement-of-base-10-integer) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vedanshmah/leetquestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vedanshmah/leetquestions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/vedanshmah/leetquestions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vedanshmah/leetquestions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/vedanshmah/leetquestions/tree/master/1160-letter-tile-possibilities) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vedanshmah/leetquestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/vedanshmah/leetquestions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/vedanshmah/leetquestions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/vedanshmah/leetquestions/tree/master/1502-construct-k-palindrome-strings) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/vedanshmah/leetquestions/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/vedanshmah/leetquestions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1256-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vedanshmah/leetquestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vedanshmah/leetquestions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vedanshmah/leetquestions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vedanshmah/leetquestions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
