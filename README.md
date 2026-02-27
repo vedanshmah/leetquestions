@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/vedanshmah/leetquestions/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/vedanshmah/leetquestions/tree/master/1014-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/vedanshmah/leetquestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshmah/leetquestions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1217-relative-sort-array](https://github.com/vedanshmah/leetquestions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vedanshmah/leetquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0952-word-subsets) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshmah/leetquestions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/vedanshmah/leetquestions/tree/master/1160-letter-tile-possibilities) |
 | [1217-relative-sort-array](https://github.com/vedanshmah/leetquestions/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vedanshmah/leetquestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vedanshmah/leetquestions/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vedanshmah/leetquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/vedanshmah/leetquestions/tree/master/1046-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshmah/leetquestions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vedanshmah/leetquestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vedanshmah/leetquestions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vedanshmah/leetquestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vedanshmah/leetquestions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vedanshmah/leetquestions/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/vedanshmah/leetquestions/tree/master/0407-trapping-rain-water-ii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshmah/leetquestions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/vedanshmah/leetquestions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vedanshmah/leetquestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/vedanshmah/leetquestions/tree/master/1876-map-of-highest-peak) |
