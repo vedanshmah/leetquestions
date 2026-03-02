@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/vedanshmah/leetquestions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vedanshmah/leetquestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1524-string-matching-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vedanshmah/leetquestions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vedanshmah/leetquestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vedanshmah/leetquestions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vedanshmah/leetquestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vedanshmah/leetquestions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/vedanshmah/leetquestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/vedanshmah/leetquestions/tree/master/1502-construct-k-palindrome-strings) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vedanshmah/leetquestions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vedanshmah/leetquestions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2089-maximum-matrix-sum](https://github.com/vedanshmah/leetquestions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vedanshmah/leetquestions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/vedanshmah/leetquestions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1396-count-servers-that-communicate](https://github.com/vedanshmah/leetquestions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vedanshmah/leetquestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vedanshmah/leetquestions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1876-map-of-highest-peak](https://github.com/vedanshmah/leetquestions/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/vedanshmah/leetquestions/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/vedanshmah/leetquestions/tree/master/2145-grid-game) |
