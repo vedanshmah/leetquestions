@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vedanshmah/leetquestions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vedanshmah/leetquestions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vedanshmah/leetquestions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vedanshmah/leetquestions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vedanshmah/leetquestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vedanshmah/leetquestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/vedanshmah/leetquestions/tree/master/1923-sentence-similarity-iii) |
