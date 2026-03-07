@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vedanshmah/leetquestions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vedanshmah/leetquestions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vedanshmah/leetquestions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vedanshmah/leetquestions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vedanshmah/leetquestions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/vedanshmah/leetquestions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/vedanshmah/leetquestions/tree/master/1923-sentence-similarity-iii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vedanshmah/leetquestions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vedanshmah/leetquestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/vedanshmah/leetquestions/tree/master/1755-defuse-the-bomb) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vedanshmah/leetquestions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vedanshmah/leetquestions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/vedanshmah/leetquestions/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vedanshmah/leetquestions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vedanshmah/leetquestions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/vedanshmah/leetquestions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/vedanshmah/leetquestions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vedanshmah/leetquestions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2262-solving-questions-with-brainpower](https://github.com/vedanshmah/leetquestions/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
