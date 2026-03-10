@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/vedanshmah/leetquestions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vedanshmah/leetquestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vedanshmah/leetquestions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vedanshmah/leetquestions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vedanshmah/leetquestions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vedanshmah/leetquestions/tree/master/3643-zero-array-transformation-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/vedanshmah/leetquestions/tree/master/3714-longest-balanced-substring-ii) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vedanshmah/leetquestions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2262-solving-questions-with-brainpower](https://github.com/vedanshmah/leetquestions/tree/master/2262-solving-questions-with-brainpower) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vedanshmah/leetquestions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vedanshmah/leetquestions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
