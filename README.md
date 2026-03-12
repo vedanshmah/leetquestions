@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vedanshmah/leetquestions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/vedanshmah/leetquestions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/vedanshmah/leetquestions/tree/master/0416-partition-equal-subset-sum) |
+| [0456-132-pattern](https://github.com/vedanshmah/leetquestions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vedanshmah/leetquestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vedanshmah/leetquestions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vedanshmah/leetquestions/tree/master/0560-subarray-sum-equals-k) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0456-132-pattern](https://github.com/vedanshmah/leetquestions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vedanshmah/leetquestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vedanshmah/leetquestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vedanshmah/leetquestions/tree/master/0739-daily-temperatures) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/vedanshmah/leetquestions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/vedanshmah/leetquestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vedanshmah/leetquestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vedanshmah/leetquestions/tree/master/0739-daily-temperatures) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vedanshmah/leetquestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/vedanshmah/leetquestions/tree/master/0456-132-pattern) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vedanshmah/leetquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/vedanshmah/leetquestions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vedanshmah/leetquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -779,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/vedanshmah/leetquestions/tree/master/0456-132-pattern) |
 | [2434-design-a-number-container-system](https://github.com/vedanshmah/leetquestions/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
