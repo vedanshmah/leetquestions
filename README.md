@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/vedanshmah/leetquestions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/vedanshmah/leetquestions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vedanshmah/leetquestions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vedanshmah/leetquestions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedanshmah/leetquestions/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vedanshmah/leetquestions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/vedanshmah/leetquestions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vedanshmah/leetquestions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vedanshmah/leetquestions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vedanshmah/leetquestions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vedanshmah/leetquestions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/vedanshmah/leetquestions/tree/master/3643-zero-array-transformation-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/vedanshmah/leetquestions/tree/master/3714-longest-balanced-substring-ii) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/vedanshmah/leetquestions/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vedanshmah/leetquestions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vedanshmah/leetquestions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vedanshmah/leetquestions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedanshmah/leetquestions/tree/master/3227-find-missing-and-repeated-values) |
 ## Rolling Hash
 |  |
