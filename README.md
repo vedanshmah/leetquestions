@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/vedanshmah/leetquestions/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2906-construct-product-matrix](https://github.com/vedanshmah/leetquestions/tree/master/2906-construct-product-matrix) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/vedanshmah/leetquestions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/vedanshmah/leetquestions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vedanshmah/leetquestions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/vedanshmah/leetquestions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/vedanshmah/leetquestions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vedanshmah/leetquestions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2906-construct-product-matrix](https://github.com/vedanshmah/leetquestions/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vedanshmah/leetquestions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vedanshmah/leetquestions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vedanshmah/leetquestions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/vedanshmah/leetquestions/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vedanshmah/leetquestions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vedanshmah/leetquestions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2906-construct-product-matrix](https://github.com/vedanshmah/leetquestions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vedanshmah/leetquestions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedanshmah/leetquestions/tree/master/3227-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vedanshmah/leetquestions/tree/master/3643-flip-square-submatrix-vertically) |
