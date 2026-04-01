@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vedanshmah/leetquestions/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/vedanshmah/leetquestions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vedanshmah/leetquestions/tree/master/0416-partition-equal-subset-sum) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/vedanshmah/leetquestions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0799-champagne-tower](https://github.com/vedanshmah/leetquestions/tree/master/0799-champagne-tower) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/vedanshmah/leetquestions/tree/master/0907-sum-of-subarray-minimums) |
