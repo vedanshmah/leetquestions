@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/vedanshmah/leetquestions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vedanshmah/leetquestions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vedanshmah/leetquestions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vedanshmah/leetquestions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/vedanshmah/leetquestions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vedanshmah/leetquestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vedanshmah/leetquestions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/vedanshmah/leetquestions/tree/master/2262-solving-questions-with-brainpower) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vedanshmah/leetquestions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vedanshmah/leetquestions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vedanshmah/leetquestions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
 |  |
 | ------- |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/vedanshmah/leetquestions/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vedanshmah/leetquestions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedanshmah/leetquestions/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vedanshmah/leetquestions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vedanshmah/leetquestions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vedanshmah/leetquestions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Rolling Hash
