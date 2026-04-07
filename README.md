@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/vedanshmah/leetquestions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/vedanshmah/leetquestions/tree/master/0797-rabbits-in-forest) |
+| [0874-walking-robot-simulation](https://github.com/vedanshmah/leetquestions/tree/master/0874-walking-robot-simulation) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vedanshmah/leetquestions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/vedanshmah/leetquestions/tree/master/0907-sum-of-subarray-minimums) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vedanshmah/leetquestions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vedanshmah/leetquestions/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/vedanshmah/leetquestions/tree/master/0797-rabbits-in-forest) |
+| [0874-walking-robot-simulation](https://github.com/vedanshmah/leetquestions/tree/master/0874-walking-robot-simulation) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/vedanshmah/leetquestions/tree/master/0952-word-subsets) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/vedanshmah/leetquestions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vedanshmah/leetquestions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/vedanshmah/leetquestions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vedanshmah/leetquestions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
