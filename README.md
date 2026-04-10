@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vedanshmah/leetquestions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedanshmah/leetquestions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/vedanshmah/leetquestions/tree/master/3321-type-of-triangle) |
+| [3848-check-digitorial-permutation](https://github.com/vedanshmah/leetquestions/tree/master/3848-check-digitorial-permutation) |
 ## Linked List
 |  |
 | ------- |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedanshmah/leetquestions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/vedanshmah/leetquestions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/vedanshmah/leetquestions/tree/master/3713-longest-balanced-substring-i) |
+| [3848-check-digitorial-permutation](https://github.com/vedanshmah/leetquestions/tree/master/3848-check-digitorial-permutation) |
 ## Sorting
 |  |
 | ------- |
