@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vedanshmah/leetquestions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vedanshmah/leetquestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vedanshmah/leetquestions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/vedanshmah/leetquestions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vedanshmah/leetquestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3829-design-ride-sharing-system](https://github.com/vedanshmah/leetquestions/tree/master/3829-design-ride-sharing-system) |
 ## Union Find
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vedanshmah/leetquestions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedanshmah/leetquestions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/vedanshmah/leetquestions/tree/master/3321-type-of-triangle) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vedanshmah/leetquestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3848-check-digitorial-permutation](https://github.com/vedanshmah/leetquestions/tree/master/3848-check-digitorial-permutation) |
 ## Linked List
 |  |
