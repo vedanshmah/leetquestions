@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vedanshmah/leetquestions/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/vedanshmah/leetquestions/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vedanshmah/leetquestions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/vedanshmah/leetquestions/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/vedanshmah/leetquestions/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/vedanshmah/leetquestions/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vedanshmah/leetquestions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vedanshmah/leetquestions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vedanshmah/leetquestions/tree/master/0416-partition-equal-subset-sum) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/vedanshmah/leetquestions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0788-rotated-digits](https://github.com/vedanshmah/leetquestions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/vedanshmah/leetquestions/tree/master/0799-champagne-tower) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/vedanshmah/leetquestions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/vedanshmah/leetquestions/tree/master/0907-sum-of-subarray-minimums) |
