@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-jump-game-iii](https://github.com/vedanshmah/leetquestions/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/vedanshmah/leetquestions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1345-jump-game-iv](https://github.com/vedanshmah/leetquestions/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vedanshmah/leetquestions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vedanshmah/leetquestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/vedanshmah/leetquestions/tree/master/1364-tuple-with-same-product) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/vedanshmah/leetquestions/tree/master/1217-relative-sort-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vedanshmah/leetquestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/vedanshmah/leetquestions/tree/master/1256-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/vedanshmah/leetquestions/tree/master/1345-jump-game-iv) |
 | [1364-tuple-with-same-product](https://github.com/vedanshmah/leetquestions/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vedanshmah/leetquestions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vedanshmah/leetquestions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/vedanshmah/leetquestions/tree/master/0407-trapping-rain-water-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vedanshmah/leetquestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/vedanshmah/leetquestions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/vedanshmah/leetquestions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedanshmah/leetquestions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/vedanshmah/leetquestions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vedanshmah/leetquestions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
