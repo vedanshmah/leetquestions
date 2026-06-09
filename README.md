@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/vedanshmah/leetquestions/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vedanshmah/leetquestions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vedanshmah/leetquestions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vedanshmah/leetquestions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vedanshmah/leetquestions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vedanshmah/leetquestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/vedanshmah/leetquestions/tree/master/3195-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vedanshmah/leetquestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vedanshmah/leetquestions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vedanshmah/leetquestions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Simulation
 |  |
 | ------- |
