@@ -1,5 +1,5 @@
 class Solution {
-    typedef long long ll;
+typedef long long ll;
 public:
     long long maxTotalValue(vector<int>& nums, int k) {
         int tmax=INT_MIN;
