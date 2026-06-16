@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/vedanshmah/leetquestions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/vedanshmah/leetquestions/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/vedanshmah/leetquestions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/vedanshmah/leetquestions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/vedanshmah/leetquestions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/vedanshmah/leetquestions/tree/master/3714-longest-balanced-substring-ii) |
 ## Bit Manipulation
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/vedanshmah/leetquestions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/vedanshmah/leetquestions/tree/master/3447-clear-digits) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/vedanshmah/leetquestions/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3612-process-string-with-special-operations-i](https://github.com/vedanshmah/leetquestions/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vedanshmah/leetquestions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Queue
 |  |
