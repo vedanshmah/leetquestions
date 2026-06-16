@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vedanshmah/leetquestions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedanshmah/leetquestions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/vedanshmah/leetquestions/tree/master/3321-type-of-triangle) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vedanshmah/leetquestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vedanshmah/leetquestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3848-check-digitorial-permutation](https://github.com/vedanshmah/leetquestions/tree/master/3848-check-digitorial-permutation) |
 ## Linked List
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vedanshmah/leetquestions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vedanshmah/leetquestions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vedanshmah/leetquestions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vedanshmah/leetquestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vedanshmah/leetquestions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vedanshmah/leetquestions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/vedanshmah/leetquestions/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vedanshmah/leetquestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
