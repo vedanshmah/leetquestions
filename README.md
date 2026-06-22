@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/vedanshmah/leetquestions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/vedanshmah/leetquestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/vedanshmah/leetquestions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/vedanshmah/leetquestions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Hash Table
 |  |
 | ------- |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vedanshmah/leetquestions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vedanshmah/leetquestions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vedanshmah/leetquestions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/vedanshmah/leetquestions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Prefix Sum
 |  |
 | ------- |
