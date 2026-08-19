@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vedanshmah/leetquestions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/vedanshmah/leetquestions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/vedanshmah/leetquestions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/vedanshmah/leetquestions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vedanshmah/leetquestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vedanshmah/leetquestions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vedanshmah/leetquestions/tree/master/0328-odd-even-linked-list) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/vedanshmah/leetquestions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vedanshmah/leetquestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vedanshmah/leetquestions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vedanshmah/leetquestions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vedanshmah/leetquestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/vedanshmah/leetquestions/tree/master/0189-rotate-array) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vedanshmah/leetquestions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vedanshmah/leetquestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vedanshmah/leetquestions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vedanshmah/leetquestions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vedanshmah/leetquestions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/vedanshmah/leetquestions/tree/master/0368-largest-divisible-subset) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedanshmah/leetquestions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/vedanshmah/leetquestions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/vedanshmah/leetquestions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedanshmah/leetquestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/vedanshmah/leetquestions/tree/master/0307-range-sum-query-mutable) |
@@ -910,4 +914,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vedanshmah/leetquestions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vedanshmah/leetquestions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
