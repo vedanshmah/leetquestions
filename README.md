@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/vedanshmah/leetquestions/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vedanshmah/leetquestions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/vedanshmah/leetquestions/tree/master/0110-balanced-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vedanshmah/leetquestions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vedanshmah/leetquestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0407-trapping-rain-water-ii](https://github.com/vedanshmah/leetquestions/tree/master/0407-trapping-rain-water-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/vedanshmah/leetquestions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/vedanshmah/leetquestions/tree/master/1306-jump-game-iii) |
